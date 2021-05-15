@@ -6,3 +6,6 @@ https://www.researchgate.net/figure/Proposed-System-Architecture-of-Blockchain-b
 
 https://www.coursera.org/learn/introduction-supply-chain-finance-blockchain-technology
 https://www.coursera.org/learn/blockchain-basics
+
+
+https://blockgeeks.com/guides/what-is-blockchain-technology/
